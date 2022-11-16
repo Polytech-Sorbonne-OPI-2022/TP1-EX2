@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+a
+=======
+test
+>>>>>>> 9af25e5037c3a562e827339b77ba239e6cb7445b
+Je remodifie la première ligne
+Je modifie la première ligne
+hello
